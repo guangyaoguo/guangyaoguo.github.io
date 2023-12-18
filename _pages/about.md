@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's Student\\<a href='https://illinois.edu/'>University of Illinois Urbana-Champaign</a>.
+subtitle: Master's Student at <a href='https://illinois.edu/'>University of Illinois Urbana-Champaign</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: guangyao.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
