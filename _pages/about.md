@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://illinois.edu/'>University of Illinois Urbana-Champaign</a>.
+subtitle: Master's Student\\<a href='https://illinois.edu/'>University of Illinois Urbana-Champaign</a>.
 
 profile:
   align: right
