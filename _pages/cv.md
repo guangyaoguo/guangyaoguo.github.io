@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Resume
 nav: true
 nav_order: 4
 cv_pdf: Guangyao_GUO_Resume.pdf
