@@ -25,7 +25,7 @@ It's been a wonderful experience delving into theoretical computer science durin
 
 My practical experience encompasses projects in computational data science, software development, cybersecurity, and computer vision, equipping me with a versatile skill set that includes Java, Python, C, SQL, R, machine learning, algorithm design. 
 
-With a strong passion for bridging theory and application, I am committed to contributing to computer science research and pursuing a Ph.D. degree in the years to come. Feel free to check my latest [CV](assets/pdf/Guangyao_GUO_Resume.pdf) if interested.
+With a strong passion for bridging theory and application, I am committed to contributing to research and pursuing a Ph.D. degree in the years to come, particularly in machine learning/computer vision related fields. Feel free to check my latest [CV](assets/pdf/Guangyao_GUO_Resume.pdf) if interested.
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
