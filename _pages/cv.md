@@ -1,6 +1,6 @@
 ---
 layout: pdf_layout
-permalink: /cv/
+permalink: /assets/pdf/Guangyao_GUO_Resume.pdf
 title: Resume
 nav: true
 nav_order: 3
