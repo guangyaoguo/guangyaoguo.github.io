@@ -1,11 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: Resume
-nav: false
+nav: true
 nav_order: 4
 cv_pdf: Guangyao_GUO_Resume.pdf
-description: Please click the 'PDF' button to download my latest resume.
-toc:
-  sidebar: left
+redirect_to: /assets/pdf/Guangyao_GUO_Resume.pdf
 ---
+
+You will be redirected to my resume shortly.
