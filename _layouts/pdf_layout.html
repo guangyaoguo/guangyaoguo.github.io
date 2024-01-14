@@ -1,0 +1,23 @@
+<!-- _layouts/pdf_layout.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- your head content here -->
+</head>
+<body>
+    <nav>
+        <ul>
+            <!-- your other navigation items here -->
+            <li id="resumeButton"><a href="{{ page.redirect_to }}">Resume</a></li>
+        </ul>
+    </nav>
+
+    <!-- your other page content here -->
+
+    <script>
+        document.getElementById("resumeButton").addEventListener("click", function() {
+            window.location.href = "{{ page.redirect_to }}";
+        });
+    </script>
+</body>
+</html>
