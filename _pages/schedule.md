@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Schedule
 permalink: /schedule/
-description: My schedule powered by Google Calendar
 nav: true
 nav_order: 2
 ---
