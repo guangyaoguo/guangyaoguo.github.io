@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pdf_layout
 permalink: /cv/
 title: Resume
 nav: true
@@ -9,3 +9,4 @@ redirect_to: /assets/pdf/Guangyao_GUO_Resume.pdf
 ---
 
 You will be redirected to my resume shortly.
+
