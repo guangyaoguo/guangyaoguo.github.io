@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student in computer science at Hong Kong Baptist University, specifically focusing on computational biology and deep learning in genomics, fortunately advised by <a href='https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang'>Dr. ZHANG, Eric Lu</a>. Before HKBU, I got a Bachelor's degree in Advanced Computing with First Class Honours from the University of Sydney. 
+I am currently a PhD student in computer science at Hong Kong Baptist University, specifically focusing on computational biology and deep learning in genomics, fortunately advised by <a href='https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang'>Prof. ZHANG, Eric Lu</a>. Before HKBU, I got a Bachelor's degree in Advanced Computing with First Class Honours from the University of Sydney. 
 
 It's been a wonderful experience delving into theoretical computer science during my honours year, fourturnately guided by dedicated advisor [Dr. André van Renssen](https://andrevanrenssen.droppages.com/) at Sydney Algorithms and Computing Theory Group ([SACT](https://sydneyalgorithms.wordpress.com/)), where I completed my [honours thesis](assets/pdf/Online_Routing_on_Delaunay_Triangulations_in_the_Presence_of_Obstacles.pdf) with High Distinction, focusing on computational geometry.
 
