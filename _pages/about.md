@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at <a href='https://www.hkbu.edu.hk/'>Hong Kong Baptist University</a>.
+subtitle: Master student(Online) at <a href='https://illinois.edu/'>University of Illinois Urbana-Champaign</a>.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student in computer science at Hong Kong Baptist University, specifically focusing on computational biology and deep learning in genomics, fortunately advised by <a href='https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang'>Prof. ZHANG, Eric Lu</a>. Before HKBU, I got a Bachelor's degree in Advanced Computing with First Class Honours from the University of Sydney. 
+I am currently a Master student(Online) in computer science at University of Illinois Urbana-Champaign, specifically focusing on computer science and machine learning, before UIUC, I had the privilege of conducting research in deep learning applications for genomics under the guidance of <a href='https://www.comp.hkbu.edu.hk/v1/?page=profile&id=ericluzhang'>Prof. ZHANG, Eric Lu</a> at Hong Kong Baptist University. This research experience not only deepened my understanding of machine learning but also allowed me to explore its interdisciplinary applications.  Prior to joining HKBU, I got a Bachelor's degree in Advanced Computing with First Class Honours from the University of Sydney. 
 
 It's been a wonderful experience delving into theoretical computer science during my honours year, fourturnately guided by dedicated advisor [Dr. André van Renssen](https://andrevanrenssen.droppages.com/) at Sydney Algorithms and Computing Theory Group ([SACT](https://sydneyalgorithms.wordpress.com/)), where I completed my [honours thesis](assets/pdf/Online_Routing_on_Delaunay_Triangulations_in_the_Presence_of_Obstacles.pdf) with High Distinction, focusing on computational geometry.
 
